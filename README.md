@@ -5,9 +5,9 @@ This repository houses the codebase for Wanderlust Tours, a comprehensive travel
 - view a list of travel destinations
 - Add new travel destinations
 - Edit existing travel destinations
--   Delete travel destinations
+- Delete travel destinations
 - Upload images for each destination
- -  Responsive design for mobile and desktop
+- Responsive design for mobile and desktop
 
 ### Technologies Used
 - PHP
